@@ -15,9 +15,8 @@
 	<P>The time on the server is ${serverTime}.</P>
 
 	<h1>HI! hi!2</h1>
-	<h1>
-		github update
-		<h1>
+	<h1>github update<h1>
+	<h1>eclipse update2</h1>
 			<P>The time on the server is ${serverTime}.</P>
 </body>
 </html>
